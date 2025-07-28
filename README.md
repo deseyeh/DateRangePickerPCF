@@ -8,7 +8,7 @@ The **Date Range Picker PCF** is a custom control built with React and Fluent UI
 
 
 ## 🚀 Example
-![Sample Image](https://github.com/deseyeh/DateRangeControl_PCF/blob/main/datarange.png)
+![Sample Image](https://github.com/deseyeh/DateRangePickerPCF/blob/main/_example.png)
 
 
 
