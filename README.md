@@ -31,7 +31,7 @@ The control is configured through PCF manifest properties. No external services 
 <img width="232" alt="image" src="https://github.com/user-attachments/assets/d0db9a84-19c0-4b9b-b909-f27dcdc5f001" />
 
  
-![Sample Image](https://github.com/deseyeh/DateRangeControl_PCF/blob/main/datarangeConfig.PNG) 
+![Sample Image](https://github.com/deseyeh/DateRangePickerPCF/blob/main/datarangeConfig.PNG) 
 
 
 
